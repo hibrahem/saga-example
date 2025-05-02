@@ -36,4 +36,8 @@ The Saga pattern is a way to manage distributed transactions in microservices ar
 - **Orchestration**: Uses a central coordinator to manage the saga execution
 - **Choreography**: Services communicate through events without a central coordinator
 
-## This project is part of the Software Architecture course by Tech Mentors 
+## This project is part of the Software Architecture course by Tech Mentors
+
+Check out my courses on Udemy: [Hassan Ibrahem's Courses](https://www.udemy.com/user/hassan-ibrahem-2/)
+
+<img src="techmentors.png" alt="Tech Mentors Logo" width="300"/>
